@@ -1,0 +1,80 @@
+/*
+Theme Name: simple_v1
+Theme URI: xxxxxxx
+Author: Andrzej Kordas
+Description:Motyw tymczasowy
+Version: 1.0
+ */
+
+
+footer,
+.top{
+	background:rgb(0, 0, 0);
+	min-height:100px;
+	color:#eee;
+}
+footer{
+	padding:1rem 0;
+	margin-top:2rem;
+}
+.rotor{
+	margin-bottom:3rem;
+}
+.pasek{
+	min-height: 100px;
+	color: #eee;
+	text-align: center;
+	padding: 3rem 0;
+	margin: 3rem 0;
+	background-image: url(images/tlo1.jpg);
+	background-position: center center;
+}
+.kolumny{
+	text-align: center;
+	}
+.kolumny img{
+	display:block;
+	margin:0.5rem auto;
+	width: 40%;
+	border-radius:50%;
+	border:1px solid #000;
+
+}
+.kolumny h3{
+ color:#800000;
+ font-weight:normal;	
+}
+#navbarNav li{
+	list-style: none;
+}
+#navbarNav a{
+	
+	color: #fff;
+	margin-right:2rem;
+	font-size: 1.2rem;
+}
+
+#navbarNav a:hover{
+	color: #cdefb6;
+	text-decoration: none;
+}
+.navbar-toggler{
+	background: #777;
+}
+.sygnatura{
+	background:url(images/tlo1.jpg);
+	background-size:cover;
+	color:#fff;
+	font-weight:normal;
+	text-align:center;
+	padding:2rem 0;
+	margin-bottom:3rem;
+	
+	}
+h3 a{
+	
+	font-size: 1.5rem;
+	color:#fa4100 !important;
+	display:block;
+	text-align: center;
+}
